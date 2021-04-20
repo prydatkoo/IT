@@ -1,0 +1,136 @@
+body {
+     background-color: #dcdcdc;
+     text-align: center;
+     line-height: 2;
+     font-size: large;
+}
+
+.topnav {
+     text-transform: uppercase;
+     overflow: hidden;
+}
+
+.topnav a {
+     float: right;
+     padding: 14px 16px;
+     font-size: 17px;
+}
+
+.topnav a:hover {
+     background-color: #cccccc;
+}
+
+a {
+     color: #000;
+     text-decoration: none;
+}
+
+.btn {
+     font-size: 13px;
+     letter-spacing: 2px;
+     background-color: #cc6510;
+     border: none;
+     border-radius: 5px;
+     padding: 9px;
+}
+
+.btn:hover {
+     background-color: #bd5d0f;
+}
+
+.contacts {
+     padding-top: 100px;
+}
+
+.text {
+     padding: 0 100px;
+
+}
+
+span {
+     text-decoration: underline;
+}
+
+hr {
+     border: dotted #cccccc 6px;
+     border-bottom: none;
+     width: 4%;
+}
+
+.intro {
+     width: 70%;
+     margin: 100px auto 100px auto;
+     text-align: left;
+}
+
+.beach {
+     width: 70%;
+     margin: 100px auto 100px auto;
+     text-align: left;
+}
+
+.beach-pic {
+     width: 25%;
+     float: right;
+     margin-left: 30px;
+}
+
+.bar {
+     width: 70%;
+     margin: 80px auto 150px auto;
+     text-align: right;
+}
+
+.bar-pic {
+     width: 25%;
+     float: left;
+     margin-right: 30px;
+}
+
+.reception {
+     width: 70%;
+     margin: 100px auto 300px auto;
+     text-align: left;
+}
+
+.reception-pic {
+     width: 25%;
+     float: right;
+     margin-left: 30px;
+}
+
+.entrance {
+     width: 70%;
+     margin: 100px auto 100px auto;
+     text-align: center;
+}
+
+.restaurant {
+     width: 70%;
+     margin: 100px auto 100px auto;
+     text-align: right;
+}
+
+.restaurant-pic {
+     width: 25%;
+     float: left;
+     margin-right: 30px;
+}
+
+.room {
+     width: 70%;
+     margin: 130px auto 100px auto;
+     text-align: left;
+}
+
+.room-pic {
+     width: 25%;
+     float: right;
+     margin-left: 30px;
+}
+
+.footer {
+     width: 70%;
+     margin: 100px auto 100px auto;
+     text-align: center;
+}
