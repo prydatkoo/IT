@@ -3,6 +3,7 @@ body {
      text-align: center;
      line-height: 2;
      font-size: large;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .topnav {
@@ -35,6 +36,20 @@ a {
 }
 
 .btn:hover {
+     background-color: #bd5d0f;
+}
+
+.btn2 {
+     margin: 20px auto 20px auto;
+     font-size: 13px;
+     letter-spacing: 2px;
+     background-color: #cc6510;
+     border: none;
+     border-radius: 6px;
+     padding: 9px;
+}
+
+.btn2:hover {
      background-color: #bd5d0f;
 }
 
